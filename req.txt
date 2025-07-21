@@ -1,0 +1,13 @@
+streamlit
+python-docx
+python-pptx
+pypdf
+sentence-transformers
+chromadb
+langchain
+langchain-chroma
+langchain-community
+langchain-google-genai
+langchain-groq
+nltk
+scikit-learn
